@@ -1,0 +1,120 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+.move-box{
+    width: 700px;
+    height: 500px;
+    display: flex;
+    background-color: #3a3e5e;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+.move-box:hover{
+    box-shadow: 10px 12px 5px 8px #4b56a72a;
+    transition: 1.1s;
+    transform: scale(1.05);
+}
+.move-img{
+    width: 52%;
+}
+.move-info{
+    width: 50%;
+    text-align: center;
+    font-family: Arial;
+    color: white;
+}
+.move-name{
+    color: red;
+    font-size: 3rem;
+    margin-left: -30px;
+    margin-top: -10px;
+}
+.move-id{
+    margin-left: -240px;
+}
+.move-date{
+    margin-top: -50px;
+    margin-left: -220px;
+}
+.move-genres{
+    margin-left: -60px;
+}
+.btn{
+    width: 70px;
+    height: 40px;
+    background-color: rgb(15, 15, 46);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin-left: -205px;
+    margin-top: 20px;
+}
+.btn1{
+    width: 70px;
+    height: 40px;
+    background-color: rgb(15, 15, 46);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin-left: 15px;
+}
+.move-box1{
+    width: 700px;
+    height: 500px;
+    display: flex;
+    background-color: #3a3e5e;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+.move-box1:hover{
+    transition: 1.1s;
+    transform: scale(1.05);
+    box-shadow: 10px 12px 5px 8px #4b56a72a;
+}
+.move-img1{
+    width: 52%;
+}
+.move-info1{
+    width: 50%;
+    text-align: center;
+    font-family: Arial;
+    color: white;
+}
+.move-name1{
+    color: red;
+    font-size: 3rem;
+    margin-left: -170px;
+    margin-top: -10px;
+}
+.move-id1{
+    margin-left: -240px;
+}
+.move-date1{
+    margin-top: -50px;
+    margin-left: -220px;
+}
+.move-genres1{
+    margin-left: -122px;
+}
+.btn2{
+    width: 70px;
+    height: 40px;
+    background-color: rgb(15, 15, 46);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin-left: -205px;
+    margin-top: 20px;
+}
+.btn3{
+    width: 70px;
+    height: 40px;
+    background-color: rgb(15, 15, 46);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin-left: 15px;
+}
